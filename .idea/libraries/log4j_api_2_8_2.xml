@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="log4j-api-2.8.2">
+    <ANNOTATIONS>
+      <root url="file://C:/Program Files/apache-log4j-2.8.2-bin" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Program Files/apache-log4j-2.8.2-bin/apache-log4j-2.8.2-bin/log4j-api-2.8.2.jar!/" />
+      <root url="file://C:/Program Files/apache-log4j-2.8.2-bin" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://logging.apache.org/log4j/2.x/download.html" />
+      <root url="file://C:/Program Files/apache-log4j-2.8.2-bin" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://C:/Program Files/apache-log4j-2.8.2-bin" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/Program Files/apache-log4j-2.8.2-bin" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/apache-log4j-2.8.2-bin" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/apache-log4j-2.8.2-bin" recursive="false" type="SOURCES" />
+  </library>
+</component>
